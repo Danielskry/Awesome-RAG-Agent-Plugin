@@ -1,0 +1,22 @@
+{
+  "name": "awesome-rag",
+  "owner": {
+    "name": "Daniel Skryseth"
+  },
+  "description": "RAG architecture, framework, evaluation, and production guidance for coding agents, sourced from the Awesome-RAG knowledge map.",
+  "plugins": [
+    {
+      "name": "awesome-rag",
+      "source": "./",
+      "description": "RAG architecture, framework, evaluation, and production guidance for coding agents, sourced from the Awesome-RAG knowledge map.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Daniel Skryseth",
+        "url": "https://github.com/Danielskry"
+      },
+      "homepage": "https://github.com/Danielskry/Awesome-RAG",
+      "license": "MIT",
+      "keywords": ["rag", "retrieval-augmented-generation", "llm", "vector-database", "agent-plugin"]
+    }
+  ]
+}

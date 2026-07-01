@@ -1,0 +1,11 @@
+{
+  "name": "awesome-rag",
+  "description": "RAG architecture, framework, evaluation, and production guidance for coding agents, sourced from the Awesome-RAG knowledge map.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Daniel Skryseth",
+    "url": "https://github.com/Danielskry"
+  },
+  "skills": "skills/",
+  "agents": "agents/"
+}
